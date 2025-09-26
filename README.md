@@ -15,5 +15,5 @@ This project aims to:
 
 
 ```bash
-git clone https://github.com/<techylimat>/face-mask-detection.git
+git clone https://github.com/techylimat/face-mask-detection.git
 cd face-mask-detection
